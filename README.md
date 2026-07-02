@@ -10,6 +10,11 @@ This repository contains a collection of PowerShell and PowerCLI scripts I've wr
 - PowerShell & PowerCLI scripting
 - Automation, monitoring, and reporting
 
+## 🎓 Certifications
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/02bfc717-c761-4f60-9010-413b53542cb0/public_url) — Amazon Web Services
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/LogeswariS-5577/1F8D698EE4083BEE?sharingId=71112B8A6454959) — Microsoft
+
 ## 📂 Scripts in this portfolio
 
 | # | Script | What it does | Area |
