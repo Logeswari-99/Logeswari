@@ -14,10 +14,10 @@ This repository contains a collection of PowerShell and PowerCLI scripts I've wr
 
 | # | Script | What it does | Area |
 |---|--------|---------------|------|
-| 1 | [Get-VMHealthReport](./01-vmware-vm-health-report) | Reports on VM CPU/RAM/disk usage and flags issues | VMware |
-| 2 | [Remove-OldSnapshots](./02-snapshot-cleanup) | Finds and (optionally) removes old VM snapshots | VMware |
-| 3 | [Send-DatastoreAlert](./03-datastore-usage-alert) | Alerts when datastore free space drops below threshold | VMware |
-| 4 | [New-VMFromTemplate](./04-vm-provisioning) | Automates VM provisioning from a template | VMware |
+| 1 | [Get-VMHealthReport](https://github.com/Logeswari-99/vmware-vm-health-report) | Reports on VM CPU/RAM/disk usage and flags issues | VMware |
+| 2 | [Remove-OldSnapshots](https://github.com/Logeswari-99/snapshot-cleanup) | Finds and (optionally) removes old VM snapshots | VMware |
+| 3 | [Send-DatastoreAlert](https://github.com/Logeswari-99/datastore-usage-alert) | Alerts when datastore free space drops below threshold | VMware |
+| 4 | [New-VMFromTemplate](https://github.com/Logeswari-99/vm-provisioning) | Automates VM provisioning from a template | VMware |
 | 5 | [Get-ADUserReport](./05-ad-bulk-user-report) | Reports on stale, disabled, and expiring AD accounts | Active Directory |
 | 6 | [Send-PasswordExpiryNotice](./06-ad-password-expiry-notification) | Emails users before their AD password expires | Active Directory |
 | 7 | [Get-ServerHealthCheck](./07-windows-server-health-check) | Checks disk space, services, and event log errors on Windows Servers | Windows Server |
